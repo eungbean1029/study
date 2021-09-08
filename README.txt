@@ -2,4 +2,8 @@
 -
 -
 
-2wncktndjq
+2줓차 수업
+- git
+
+3주차수업
+-github
